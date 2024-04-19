@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### [Sohail Ishaque][website] @ ⚙️Github
 
-[![Website](https://www.fiverr.com/a4illusionist)](https://google.com)
-[![UPwork](https://www.upwork.com/freelancers/sohaili7)]
-[[Fiverr](https://www.upwork.com/freelancers/sohaili7)]
+[[Website](https://sohail-ishaque.com)]
+[[UPwork](https://www.upwork.com/freelancers/sohaili7)]
+[[Fiverr](https://www.fiverr.com/a4illusionist)]
 
 
 ### 👋 Connect With Me
