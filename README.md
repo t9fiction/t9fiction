@@ -2,19 +2,16 @@
 ### [Sohail Ishaque][website] @ ⚙️Github
 
 [![Website](https://www.fiverr.com/a4illusionist)](https://google.com)
-[![UPwork](https://img.shields.io/twitter/follow/james_bachini?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.upwork.com/freelancers/sohaili7)
+[![UPwork](https://www.upwork.com/freelancers/sohaili7)]
 
-I dabble in blockchain development, systems trading and yield farming.
 
 ### 👋 Connect With Me
 
 🌐 https://sohail-ishaque.com
 <br />
-
+🐦 https://twitter.com/t9fiction
 <br />
-🐦 [(https://twitter.com/t9fiction)](https://twitter.com/t9fiction)
-<br />
-👔 https://linkedin.com/in/jamesbachini
+👔 https://www.linkedin.com/in/sohail-ishaque/
 <br />
 ✉️ https://jamesbachini.com/contact/
 
