@@ -3,6 +3,7 @@
 
 [![Website](https://www.fiverr.com/a4illusionist)](https://google.com)
 [![UPwork](https://www.upwork.com/freelancers/sohaili7)]
+[[Fiverr](https://www.upwork.com/freelancers/sohaili7)]
 
 
 ### 👋 Connect With Me
