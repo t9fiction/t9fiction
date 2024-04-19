@@ -8,11 +8,11 @@ I dabble in blockchain development, systems trading and yield farming.
 
 ### 👋 Connect With Me
 
-🌐 https://jamesbachini.com
+🌐 https://sohail-ishaque.com
 <br />
-📺 [https://youtube.com/jamesbachini](https://www.youtube.com/c/JamesBachini?sub_confirmation=1)
+
 <br />
-🐦 [https://twitter.com/james_bachini](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjamesbachini&screen_name=james_bachini)
+🐦 [(https://twitter.com/t9fiction)](https://twitter.com/t9fiction)
 <br />
 👔 https://linkedin.com/in/jamesbachini
 <br />
