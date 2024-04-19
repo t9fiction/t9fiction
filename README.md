@@ -13,7 +13,7 @@
 <br />
 👔 https://www.linkedin.com/in/sohail-ishaque/
 <br />
-✉️ https://jamesbachini.com/contact/
+✉️ sohail.sohailishaq@gmail.com
 
 ---
 
