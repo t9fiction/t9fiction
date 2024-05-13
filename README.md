@@ -1,5 +1,5 @@
 ### Hi there 👋
-### [Sohail Ishaque][website] @ ⚙️Github
+### Its me, Sohail Ishaque.
 
 [[Website](https://sohail-ishaque.com)]
 [[UPwork](https://www.upwork.com/freelancers/sohaili7)]
