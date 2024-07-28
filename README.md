@@ -12,7 +12,7 @@
 
 - 💻 I am currently thriving as a Freelance Blockchain and Web3 Developer, passionately diving into the exciting world of Generative AI with a keen eagerness to learn and innovate rapidly.
 - 👨‍💻 All of my projects are available at [portfolio](https://portfolio-sanity-lilac.vercel.app/)
-- 💬 Ask me about **Python, Django, Reactjs, Blockchain**
+- 💬 Ask me about **Solidity, Blockchain, NFTs, DeFi, Dapps, Solana, Rust, Typescript, Javascript, Reactjs, Nextjs, Python, Docker**
 - 📄 Know about my experiences [https://www.linkedin.com/in/1hanzla100/](https://www.linkedin.com/in/1hanzla100/)
 
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
