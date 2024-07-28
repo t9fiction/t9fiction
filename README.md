@@ -11,7 +11,7 @@
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
 
 - 💻 I am currently thriving as a Freelance Blockchain and Web3 Developer, passionately diving into the exciting world of Generative AI with a keen eagerness to learn and innovate rapidly.
-- 👨‍💻 All of my projects are available at([portfolio](https://portfolio-sanity-lilac.vercel.app/))
+- 👨‍💻 All of my projects are available at [portfolio](https://portfolio-sanity-lilac.vercel.app/)
 - 💬 Ask me about **Python, Django, Reactjs, Blockchain**
 - 📄 Know about my experiences [https://www.linkedin.com/in/1hanzla100/](https://www.linkedin.com/in/1hanzla100/)
 
