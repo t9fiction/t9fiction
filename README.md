@@ -1,4 +1,4 @@
-<h1 align="center">Hello, it's me, Sohail Ishaque ...</h1>
+<h1 align="center">Hi there 👋, it's me, Sohail Ishaque ...</h1>
 
 <h3 align="center">A Blockchain, Generative AI and Full stack developer from Lahore, Pakistan.</h3>
 
@@ -60,24 +60,3 @@
       <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=t9fiction&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
 </p>
-
-### Hi there 👋
-### Its me, Sohail Ishaque.
-
-[[Website](https://sohail-ishaque.com)]
-[[UPwork](https://www.upwork.com/freelancers/sohaili7)]
-[[Fiverr](https://www.fiverr.com/a4illusionist)]
-
-
-### 👋 Connect With Me
-
-🌐 https://sohail-ishaque.com
-<br />
-🐦 https://twitter.com/t9fiction
-<br />
-👔 https://www.linkedin.com/in/sohail-ishaque/
-<br />
-✉️ sohail.sohailishaq@gmail.com
-
----
-
