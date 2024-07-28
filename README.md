@@ -21,7 +21,7 @@
       <a href="https://www.linkedin.com/in/sohail-ishaque/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
       </a>
-      <a href="[https://www.upwork.com/freelancers/sohail.ishaque](https://www.upwork.com/freelancers/~01b632a81a9fd6f2d2)">
+      <a href="https://www.upwork.com/freelancers/~01b632a81a9fd6f2d2">
         <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white">
       </a>
       <a href="https://github.com/1hanzla100/">
