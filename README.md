@@ -1,4 +1,4 @@
-<h1 align="center">Hello, it's Sohail Ishaque here...</h1>
+<h1 align="center">Hello, it's me, Sohail Ishaque ...</h1>
 
 <h3 align="center">A Blockchain, Generative AI and Full stack developer from Lahore, Pakistan.</h3>
 
