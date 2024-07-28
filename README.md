@@ -27,10 +27,10 @@
       <a href="https://www.upwork.com/freelancers/~01b632a81a9fd6f2d2">
         <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white">
       </a>
-      <a href="https://github.com/1hanzla100/">
+      <a href="https://github.com/t9fiction">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
       </a>
-      <a href="mailto:hanzla.tauqeer123@gmail.com">
+      <a href="mailto:sohail.sohailishaq@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
       </a>
 </div>
