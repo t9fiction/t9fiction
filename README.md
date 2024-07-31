@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, it's me, Sohail Ishaque ...</h1>
 
-<h3 align="center">A Blockchain, Generative AI and Full stack developer from Lahore, Pakistan.</h3>
+<h3 align="center">A Blockchain & web3 developer from Lahore, Pakistan.</h3>
 
 <div align="center">
       <img src="https://komarev.com/ghpvc/?username=t9fiction&label=Profile%20views&color=0e75b6&style=flat" alt="t9fiction" />
