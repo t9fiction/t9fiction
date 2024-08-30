@@ -11,7 +11,10 @@
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
 
 - 💻 I am a Freelance Blockchain and Web3 Developer, passionately diving into the exciting world of Generative AI with a keen eagerness to learn and innovate rapidly.
-- 👨‍💻 Some of my projects are available at [portfolio](https://portfolio-sanity-lilac.vercel.app/)
+- 👨‍💻 Some of my projects are
+      [Cannamint](https://cannamint.vercel.app/)
+      [Crowd Funding](https://crowdfunding-eight-zeta.vercel.app/)
+      [NFT Minting](https://whitelisting-app.vercel.app/)
 - 💬 Ask me about **Solidity, Blockchain, NFTs, DeFi, Dapps, Solana, Rust, Typescript, Javascript, Reactjs, Nextjs, Python, Docker**
 - 📄 Know about my experiences [https://www.linkedin.com/in/sohail-ishaque/](https://www.linkedin.com/in/sohail-ishaque/)
 
