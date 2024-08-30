@@ -13,21 +13,21 @@
 - 💻 I am a Freelance Blockchain and Web3 Developer, passionately diving into the exciting world of Generative AI with a keen eagerness to learn and innovate rapidly.
 - 👨‍💻 Some of my projects are
   <br />
-      [Cannamint](https://cannamint.vercel.app/)
+      [Cannamint](https://cannamint.vercel.app/)  -- ERC20 Token Creating Dapp
   <br />
-      [Bridge Using Wormhole](https://wormhole-test.vercel.app/)
+      [Bridge Using Wormhole](https://wormhole-test.vercel.app/) -- Crypto Bridge
   <br />
-      [Crowd Funding](https://crowdfunding-eight-zeta.vercel.app/)
+      [Crowd Funding](https://crowdfunding-eight-zeta.vercel.app/)  -- Crowd Funding on Blockchain
   <br />
-      [NFT Minting](https://whitelisting-app.vercel.app/)
+      [NFT Minting](https://whitelisting-app.vercel.app/) -- NFT Whitelisting
   <br />
-      [EAS - Ethereum Attestation Service](https://webapp-six-pi.vercel.app/)
+      [EAS - Ethereum Attestation Service](https://webapp-six-pi.vercel.app/) -- EAS Working testing
   <br />
-      [ReapOracle](https://reap-testapp.vercel.app/)
+      [ReapOracle](https://reap-testapp.vercel.app/) -- ReapOracle client project
   <br />
-      [EStore](https://estore-five-xi.vercel.app/)
+      [EStore](https://estore-five-xi.vercel.app/) -- A complete working ECommerce app
   <br />
-      [CodePulse](https://codepulse360.vercel.app/)
+      [CodePulse](https://codepulse360.vercel.app/) -- A Porfolio project
   <br />
 - 💬 Ask me about **Solidity, Blockchain, NFTs, DeFi, Dapps, Solana, Rust, Typescript, Javascript, Reactjs, Nextjs, Python, Docker**
 - 📄 Know about my experiences [https://www.linkedin.com/in/sohail-ishaque/](https://www.linkedin.com/in/sohail-ishaque/)
