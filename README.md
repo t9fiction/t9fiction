@@ -13,7 +13,7 @@
 - 💻 I am a Freelance Blockchain and Web3 Developer, passionately diving into the exciting world of Generative AI with a keen eagerness to learn and innovate rapidly.
 - 👨‍💻 Some of my projects are
   <br />
-      [Cannamint](https://cannamint.vercel.app/)  -- ERC20 Token Creating Dapp
+      [Cannamint](https://cannamint.vercel.app/)  -- <p>ERC20 Token Creating Dapp</p>
   <br />
       [Bridge Using Wormhole](https://wormhole-test.vercel.app/) -- Crypto Bridge
   <br />
