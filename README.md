@@ -12,11 +12,23 @@
 
 - 💻 I am a Freelance Blockchain and Web3 Developer, passionately diving into the exciting world of Generative AI with a keen eagerness to learn and innovate rapidly.
 - 👨‍💻 Some of my projects are
+  <br />
       [Cannamint](https://cannamint.vercel.app/)
   <br />
       [Bridge Using Wormhole](https://wormhole-test.vercel.app/)
+  <br />
       [Crowd Funding](https://crowdfunding-eight-zeta.vercel.app/)
+  <br />
       [NFT Minting](https://whitelisting-app.vercel.app/)
+  <br />
+      [EAS - Ethereum Attestation Service](https://webapp-six-pi.vercel.app/)
+  <br />
+      [ReapOracle](https://reap-testapp.vercel.app/)
+  <br />
+      [EStore](https://estore-five-xi.vercel.app/)
+  <br />
+      [CodePulse](https://codepulse360.vercel.app/)
+  <br />
 - 💬 Ask me about **Solidity, Blockchain, NFTs, DeFi, Dapps, Solana, Rust, Typescript, Javascript, Reactjs, Nextjs, Python, Docker**
 - 📄 Know about my experiences [https://www.linkedin.com/in/sohail-ishaque/](https://www.linkedin.com/in/sohail-ishaque/)
 
