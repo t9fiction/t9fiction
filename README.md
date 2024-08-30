@@ -11,6 +11,7 @@
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
 
 - 💻 I am a Freelance Blockchain and Web3 Developer, passionately diving into the exciting world of Generative AI with a keen eagerness to learn and innovate rapidly.
+ <br />
 - 👨‍💻 Some of my projects are
   <br />
       [Cannamint](https://cannamint.vercel.app/)  -- ERC20 Token Creating Dapp
@@ -30,8 +31,9 @@
       [CodePulse](https://codepulse360.vercel.app/) -- A Porfolio project
   <br />
 - 💬 Ask me about **Solidity, Blockchain, NFTs, DeFi, Dapps, Solana, Rust, Typescript, Javascript, Reactjs, Nextjs, Python, Docker**
+  <br />
 - 📄 Know about my experiences [https://www.linkedin.com/in/sohail-ishaque/](https://www.linkedin.com/in/sohail-ishaque/)
-
+  <br />
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 
 <div align="center">
