@@ -52,26 +52,26 @@
         <li><a href="https://estore-five-xi.vercel.app/"><b>EStore</b></a><br/><i>An ECommerce app</i></li>
         <li><a href="https://codepulse360.vercel.app/"><b>CodePulse</b></a><br/><i>A Porfolio project</i></li>
       </ul>
-- 👨‍💻 Some of my projects are
-  <br />
-      [Cannamint](https://cannamint.vercel.app/)  -- ERC20 Token Creating Dapp
-  <br />
-      [Bridge Using Wormhole](https://wormhole-test.vercel.app/) -- Crypto Bridge
-  <br />
-      [Crowd Funding](https://crowdfunding-eight-zeta.vercel.app/)  -- Crowd Funding on Blockchain
-  <br />
-      [NFT Minting](https://whitelisting-app.vercel.app/) -- NFT Whitelisting
-  <br />
-      [EAS - Ethereum Attestation Service](https://webapp-six-pi.vercel.app/) -- EAS Working testing
-  <br />
-      [ReapOracle](https://reap-testapp.vercel.app/) -- ReapOracle client project
-  <br />
-      [EStore](https://estore-five-xi.vercel.app/) -- A complete working ECommerce app
-  <br />
-      [CodePulse](https://codepulse360.vercel.app/) -- A Porfolio project
-  <br />
+
 - 💬 Ask me about **Solidity, Blockchain, NFTs, DeFi, Dapps, Solana, Rust, Typescript, Javascript, Reactjs, Nextjs, Python, Docker**
 - 📄 Know about my experiences [https://www.linkedin.com/in/sohail-ishaque/](https://www.linkedin.com/in/sohail-ishaque/)
+
+<h2 align="center">Tools and Technologies 🛠</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<br>
+<br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t9fiction&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
+</div>
 
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 
@@ -91,23 +91,6 @@
       <a href="mailto:sohail.sohailishaq@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
       </a>
-</div>
-
-<h2 align="center">Tools and Technologies 🛠</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<br>
-<br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t9fiction&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
 </div>
 
 <!-- Github Stats Section -->
