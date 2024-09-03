@@ -10,7 +10,7 @@
 
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
 
-- 💻 I am a Freelance Blockchain and Web3 Developer, passionately diving into the exciting world of Generative AI with a keen eagerness to learn and innovate rapidly.
+- 💻 I am a Cloud Computing and DevOps Specialist with extensive experience in cutting-edge Blockchain and Web3 Development. As a Freelance Developer, I have collaborated with companies worldwide, leveraging advanced blockchain technologies to create innovative solutions. My work integrates robust cloud infrastructure, automation, and decentralized systems to deliver comprehensive and forward-thinking projects..
 
 - <h3>Some of my projects are</h3>
       <ul>
