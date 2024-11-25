@@ -14,7 +14,7 @@
 
 - <h3>Some of my projects are</h3>
       <ul>
-        <li><a href="https://cannamint.vercel.app/"><b>Cannamint</b></a><br/><i>ERC20 Token Creating Dapp</i></li>
+        <li><a href="https://cannamint.app/"><b>Cannamint</b></a><br/><i>ERC20 Token Creating Dapp</i></li>
         <li><a href="https://crowdfunding-eight-zeta.vercel.app/"><b>Crowd Funding</b></a><br/><i>Crowd Funding on Blockchain</i></li>
         <li><a href="https://wormhole-test.vercel.app/"><b>Wormhole</b></a><br/><i>Crypto Bridge</i></li>
         <li><a href="https://estore-five-xi.vercel.app/"><b>EStore</b></a><br/><i>An ECommerce app</i></li>
