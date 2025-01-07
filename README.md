@@ -16,7 +16,7 @@
       <ul>
         <li><a href="https://cannamint.app/"><b>Cannamint</b></a><br/><i>ERC20 Token Creating Dapp</i></li>
         <li><a href="https://crowdfunding-eight-zeta.vercel.app/"><b>Crowd Funding</b></a><br/><i>Crowd Funding on Blockchain</i></li>
-        <li><a href="https://t.me/burger22zone_bot/burger"><b>Telegram Bot Web App</b></a><br/><i>Crowd Funding on Blockchain</i></li>
+        <li><a href="https://t.me/burger22zone_bot/burger"><b>Telegram Bot Web App</b></a><br/><i>Telegram food ordering portal app</i></li>
         <li><a href="https://wormhole-test.vercel.app/"><b>Wormhole</b></a><br/><i>Crypto Bridge</i></li>
         <li><a href="https://estore-five-xi.vercel.app/"><b>EStore</b></a><br/><i>An ECommerce app</i></li>
         <li><a href="https://whitelisting-app.vercel.app/"><b>NFT Minting</b></a><br/><i>NFT Whitelisting</i></li>
