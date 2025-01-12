@@ -68,7 +68,7 @@
 <h2 align="center">Github Stats ⚡</h2>
 <p align=center>
   <div align=center>
-      <img align="center" width="45%" src="<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=t9fiction&theme=merko" alt="GitHub Streak" /></a>" alt="t9fiction" />
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=t9fiction&theme=merko" alt="GitHub Streak" /></a>
       <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=t9fiction&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
 </p>
