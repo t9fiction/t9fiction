@@ -19,6 +19,7 @@
         <li><a href="https://t.me/burger22zone_bot/burger"><b>Telegram Bot Web App</b></a><br/><i>Telegram food ordering portal</i></li>
         <li><a href="https://wormhole-test.vercel.app/"><b>Wormhole</b></a><br/><i>Crypto Bridge</i></li>
         <li><a href="https://estore-five-xi.vercel.app/"><b>EStore</b></a><br/><i>An ECommerce app</i></li>
+        <li><a https://solana-journal-crud-zeta.vercel.app/"><b>Journal</b></a><br/><i>A Solana based CRUD</i></li>
         <li><a href="https://whitelisting-app.vercel.app/"><b>NFT Minting</b></a><br/><i>NFT Whitelisting</i></li>
         <li><a href="https://reap-testapp.vercel.app/"><b>ReapOracle</b></a><br/><i>ReapOracle client project</i></li>
         <li><a href="https://webapp-six-pi.vercel.app/"><b>EAS</b></a><br/><i>Ethereum Attestation Service</i></li>
