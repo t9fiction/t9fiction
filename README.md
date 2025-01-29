@@ -42,9 +42,8 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<br>
-<br>
-<br>
+</div>
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t9fiction&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
 </div>
 
