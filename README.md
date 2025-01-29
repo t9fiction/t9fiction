@@ -14,7 +14,7 @@
 
 - <h3>Some of my projects are</h3>
       <ul>
-        <li><a href="https://blockchain-game-kohl.vercel.app/"><b>NumericSins</b></a><br/><i>Decentralized multichain Guessing Game on Sepolia & Arbitrum-Sepolia, rewarding players with ERC20 tokens through smart contracts.</i></li>
+        <li><a href="https://blockchain-game-kohl.vercel.app/"><b>NumericSins - Make the Guess</b></a><br/><i>Decentralized multichain Guessing Game on Sepolia & Arbitrum-Sepolia, rewarding players with ERC20 tokens through smart contracts.</i></li>
         <li><a href="https://cannamint.app/"><b>Cannamint</b></a><br/><i>ERC20 Token Creating Dapp</i></li>
         <li><a href="https://crowdfunding-eight-zeta.vercel.app/"><b>Crowd Funding</b></a><br/><i>Crowd Funding on Blockchain</i></li>
         <li><a href="https://t.me/burger22zone_bot/burger"><b>Telegram Bot Web App</b></a><br/><i>Telegram food ordering portal</i></li>
