@@ -30,8 +30,6 @@
 - 💬 Ask me about **Solidity, Blockchain, NFTs, DeFi, Dapps, Solana, Rust, Typescript, Javascript, Reactjs, Nextjs, Python, Docker**
 - 📄 Want to know about my experiences ? <br>
       [https://www.linkedin.com/in/sohail-ishaque/](https://www.linkedin.com/in/sohail-ishaque/)
-<br>
-[https://www.linkedin.com/in/sohail-ishaque/](My Online Portfolio)
 
 
 <h2 align="center">Tools and Technologies 🛠</h2>
