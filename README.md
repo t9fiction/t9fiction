@@ -31,7 +31,7 @@
 - 📄 Want to know about my experiences ? <br>
       [https://www.linkedin.com/in/sohail-ishaque/](https://www.linkedin.com/in/sohail-ishaque/)
 <br>
-      My online Portfolio(https://www.devsohail.space/)
+[https://www.linkedin.com/in/sohail-ishaque/](My Online Portfolio)
 
 
 <h2 align="center">Tools and Technologies 🛠</h2>
