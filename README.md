@@ -14,6 +14,7 @@
 
 - <h3>Some of my projects are</h3>
       <ul>
+        <li><a href="https://numericsol.xyz/"><b>Decentralized USD Stablecoin Protocol (Cyfrin Inspired)</b></a><br/><i>A decentralized, overcollateralized, algorithmic stablecoin protocol pegged to the US Dollar.</i></li>
         <li><a href="https://numericsol.xyz/"><b>Numeric Sol</b></a><br/><i> An SPL Solana token token creation and management platform</i></li>
         <li><a href="https://dex-nsins.vercel.app/"><b>Simple DEX</b></a><br/><i>A Decentralized Exchange on Sepolia exchanging LMNG Tokens.</i></li>
         <li><a href="https://blockchain-game-kohl.vercel.app/"><b>NumericSins - Make the Guess</b></a><br/><i>Decentralized multichain Guessing Game on Sepolia & Arbitrum-Sepolia, rewarding players with ERC20 tokens through smart contracts.</i></li>
