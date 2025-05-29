@@ -14,7 +14,7 @@
 
 - <h3>Some of my projects are</h3>
       <ul>
-        <li><a href="https://nft-marketplace-omega-nine.vercel.app/"><b>Decentralized NFT Marketplace</b></a><br/><i>A decentralized NFT marketplace enabling users to list, buy, and manage NFTs seamlessly on the blockchain.</i></li>
+        <li><a href="https://nft-marketplace-omega-nine.vercel.app/"><b>NFT Marketplace</b></a><br/><i>A decentralized NFT marketplace enabling users to list, buy, and manage NFTs seamlessly on the blockchain.</i></li>
       <li><a href="https://github.com/t9fiction/cyfrin-defi-stablecoin"><b>Decentralized USD Stablecoin Protocol (Cyfrin Inspired)</b></a><br/><i>A decentralized, overcollateralized, algorithmic stablecoin protocol pegged to the US Dollar.</i></li>
         <li><a href="https://numericsol.xyz/"><b>Numeric Sol</b></a><br/><i> An SPL Solana token token creation and management platform</i></li>
         <li><a href="https://dex-nsins.vercel.app/"><b>Simple DEX</b></a><br/><i>A Decentralized Exchange on Sepolia exchanging LMNG Tokens.</i></li>
