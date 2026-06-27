@@ -15,20 +15,17 @@
 - <h3>Some of my projects are</h3>
       <ul>
         <li><a href="https://nft-marketplace-omega-nine.vercel.app/"><b>NFT Marketplace</b></a><br/><i>A decentralized NFT marketplace enabling users to list, buy, and manage NFTs seamlessly on the blockchain.</i></li>
-      <li><a href="https://github.com/t9fiction/cyfrin-defi-stablecoin"><b>Decentralized USD Stablecoin Protocol (Cyfrin Inspired)</b></a><br/><i>A decentralized, overcollateralized, algorithmic stablecoin protocol pegged to the US Dollar.</i></li>
-        <li><a href="https://numericsol.xyz/"><b>Numeric Sol</b></a><br/><i> An SPL Solana token token creation and management platform</i></li>
+        <li><a href="https://github.com/t9fiction/cyfrin-defi-stablecoin"><b>Decentralized USD Stablecoin Protocol (Cyfrin Inspired)</b></a><br/><i>A decentralized, overcollateralized, algorithmic stablecoin protocol pegged to the US Dollar.</i></li>
+        <li><a href="https://numericsol.xyz/"><b>Numeric Sol</b></a><br/><i>An SPL Solana token creation and management platform.</i></li>
         <li><a href="https://dex-nsins.vercel.app/"><b>Simple DEX</b></a><br/><i>A Decentralized Exchange on Sepolia exchanging LMNG Tokens.</i></li>
         <li><a href="https://blockchain-game-kohl.vercel.app/"><b>NumericSins - Make the Guess</b></a><br/><i>Decentralized multichain Guessing Game on Sepolia & Arbitrum-Sepolia, rewarding players with ERC20 tokens through smart contracts.</i></li>
-        <li><a href="https://cannamint.app/"><b>Cannamint</b></a><br/><i>ERC20 Token Creating Dapp</i></li>
-        <li><a href="https://crowdfunding-eight-zeta.vercel.app/"><b>Crowd Funding</b></a><br/><i>Crowd Funding on Blockchain</i></li>
-        <li><a href="https://t.me/burger22zone_bot/burger"><b>Telegram Bot Web App</b></a><br/><i>Telegram food ordering portal</i></li>
-        <li><a href="https://wormhole-test.vercel.app/"><b>Wormhole</b></a><br/><i>Crypto Bridge</i></li>
-        <li><a href="https://estore-five-xi.vercel.app/"><b>EStore</b></a><br/><i>An ECommerce app</i></li>
-        <li><a href="https://solana-journal-crud-zeta.vercel.app/"><b>Journal</b></a><br/><i>A Solana based CRUD</i></li>
-        <li><a href="https://whitelisting-app.vercel.app/"><b>NFT Minting</b></a><br/><i>NFT Whitelisting</i></li>
-        <li><a href="https://reap-testapp.vercel.app/"><b>ReapOracle</b></a><br/><i>ReapOracle client project</i></li>
-        <li><a href="https://webapp-six-pi.vercel.app/"><b>EAS</b></a><br/><i>Ethereum Attestation Service</i></li>
-        <li><a href="https://codepulse360.vercel.app/"><b>CodePulse</b></a><br/><i>A Porfolio project</i></li>
+        <li><a href="https://github.com/t9fiction/todo-kafka"><b>Todo Kafka</b></a><br/><i>FastAPI Todo API with Kafka event streaming on Neon PostgreSQL.</i></li>
+        <li><a href="https://github.com/t9fiction/tokenpulse-ai"><b>TokenPulse AI</b></a><br/><i>AI-powered token analytics platform.</i></li>
+        <li><a href="https://github.com/t9fiction/News-Aggregator-AI-Project"><b>News Aggregator AI</b></a><br/><i>AI-driven news aggregation and summarization.</i></li>
+        <li><a href="https://github.com/t9fiction/solana-stablecoin"><b>Solana Stablecoin</b></a><br/><i>Stablecoin protocol built on Solana.</i></li>
+        <li><a href="https://github.com/t9fiction/Solana-Stable-Swap"><b>Solana Stable Swap</b></a><br/><i>Stable swap AMM on Solana.</i></li>
+        <li><a href="https://github.com/t9fiction/casper-agentic-bot"><b>Casper Agentic Bot</b></a><br/><i>Autonomous agent for Casper blockchain interactions.</i></li>
+        <li><a href="https://github.com/t9fiction/Blockchain-Interview-Questions"><b>Blockchain Interview Questions</b></a><br/><i>Curated blockchain, Solidity, and web3 interview prep.</i></li>
       </ul>
 
 - 💬 Ask me about **Solidity, Blockchain, NFTs, DeFi, Dapps, Solana, Rust, Typescript, Javascript, Reactjs, Nextjs, Python, Docker**
