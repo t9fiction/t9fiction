@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, it's me, Sohail Ishaque ...</h1>
 
-<h3 align="center">A Blockchain, web3 & AI developer from Lahore, Pakistan.</h3>
+<h3 align="center">Blockchain Developer & Cloud Professional from Lahore, Pakistan.</h3>
 
 <div align="center">
       <img src="https://komarev.com/ghpvc/?username=t9fiction&label=Profile%20views&color=0e75b6&style=flat" alt="t9fiction" />
@@ -10,7 +10,7 @@
 
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
 
-- 💻 I am a Blockchain and Web3 Developer. As a Freelance Developer, I have collaborated with companies worldwide, leveraging advanced blockchain technologies to create innovative solutions. My work integrates robust cloud infrastructure, automation, and decentralized systems to deliver comprehensive and forward-thinking projects..
+- ☁️ I am a **Blockchain Developer** and **Cloud Professional**. I design and deploy decentralized applications on EVM/Solana while architecting scalable cloud infrastructure on AWS, GCP, and Azure. I run blockchain nodes — including validators, RPC nodes, and archive nodes — on my own **Proxmox** servers with **ESXi** virtualization, containerized via **Docker** and orchestrated with **Kubernetes**. My work bridges Web3 with modern DevOps, CI/CD pipelines, and cloud automation to deliver production-grade systems.
 
 - <h3>Some of my projects are</h3>
       <ul>
@@ -31,7 +31,7 @@
         <li><a href="https://codepulse360.vercel.app/"><b>CodePulse</b></a><br/><i>A Porfolio project</i></li>
       </ul>
 
-- 💬 Ask me about **Solidity, Blockchain, NFTs, DeFi, Dapps, Solana, Rust, Typescript, Javascript, Reactjs, Nextjs, Python, Docker**
+- 💬 Ask me about **Solidity, Blockchain, NFTs, DeFi, Dapps, Solana, Rust, AWS, GCP, Azure, Proxmox, ESXi, Docker, Kubernetes, CI/CD, Typescript, Javascript, Reactjs, Nextjs, Python**
 - 📄 Want to know about my experiences ? <br>
       [https://www.devsohail.space/](https://www.devsohail.space/)
 
@@ -42,11 +42,19 @@
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware_ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </div>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t9fiction&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
