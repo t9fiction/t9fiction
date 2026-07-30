@@ -10,7 +10,14 @@
 
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
 
-- ☁️ I am a **Blockchain Developer** and **Cloud Professional**. I design and deploy decentralized applications on EVM/Solana while architecting scalable cloud infrastructure on AWS, GCP, and Azure. I run blockchain nodes — including validators, RPC nodes, and archive nodes — on my own **Proxmox** servers with **ESXi** virtualization, containerized via **Docker** and orchestrated with **Kubernetes**. My work bridges Web3 with modern DevOps, CI/CD pipelines, and cloud automation to deliver production-grade systems.
+- ☁️ Cloud, Infrastructure, and Datacenter Professional with extensive experience in enterprise networking, systems administration, virtualization, and cloud technologies. I design, deploy, and manage scalable, secure, and highly available infrastructure across on-premises datacenters and cloud platforms.
+
+My expertise includes AWS, GCP, Docker, Kubernetes, Proxmox, VMware ESXi, Linux administration, network architecture, virtualization, storage systems, monitoring, automation, and infrastructure operations. I have hands-on experience managing enterprise networks, VLANs, routing, switching, firewalls, wireless infrastructure, servers, and datacenter environments.
+
+I build and maintain production-grade infrastructure, homelabs, and cloud-native platforms focused on reliability, performance, security, and automation. My interests include cloud engineering, platform engineering, Infrastructure as Code (IaC), container orchestration, observability, and modern DevOps practices.
+
+I am passionate about designing resilient infrastructure and continuously expanding my expertise in cloud computing, networking, systems engineering, and datacenter technologies.
+
 
 - <h3>Some of my projects are</h3>
       <ul>
